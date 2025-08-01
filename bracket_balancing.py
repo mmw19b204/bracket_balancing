@@ -27,9 +27,4 @@ def is_balanced(expression: str) -> bool:
 
 
 if __name__ == "__main__":
-    # Example usage when running as a script
-    test_input = input("Enter an expression to check for balanced brackets: ")
-    if is_balanced(test_input):
-        print("Brackets are balanced ✅")
-    else:
-        print("Brackets are NOT balanced ❌")
+          print("I`m learning python")
