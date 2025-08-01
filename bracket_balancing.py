@@ -1,4 +1,4 @@
-new-class
+
 # bracket_balancing.py
 
 def is_balanced(expression: str) -> bool:
@@ -29,4 +29,3 @@ def is_balanced(expression: str) -> bool:
 
 if __name__ == "__main__":
    print("hello world")
-   
